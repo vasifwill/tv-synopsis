@@ -1,5 +1,5 @@
 /* eslint-disable max-len */
-const showdata = {
+const showData = {
   title: 'Kim\'s Convenience',
   developedBy: ['Ins Choi', 'Kevin White'],
   starring: ['Paul Sun-Hyung Lee', 'Jean Yoon', 'Andrea Bang', 'Simu Liu', 'Andrew Phung', 'Nicole Power'],
@@ -278,4 +278,4 @@ const showdata = {
   }],
 }
 
-module.exports = showdata
+module.exports = showData
